@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using mod4_1302210099;
+
+Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Paprika));
+Console.WriteLine(KodeBuah.getKodeBuah(KodeBuah.buah.Apel));
+
+
